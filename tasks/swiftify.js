@@ -8,6 +8,8 @@
 
 'use strict';
 
+var Swift = require('swift');
+
 module.exports = function(grunt) {
 
   // Please see the Grunt documentation for more information regarding task
